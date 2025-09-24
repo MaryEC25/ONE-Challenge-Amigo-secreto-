@@ -45,14 +45,16 @@ Una aplicación web interactiva que te permite organizar el juego de "Amigo Secr
 
 ## 📁 Estructura del proyecto
 
-amigo-secreto/
-│
-├── index.html # Estructura principal de la aplicación
-├── style.css # Estilos y diseño visual
-├── app.js # Lógica y funcionalidad JavaScript
-└── assets/
-├── amigo-secreto.png # Imagen principal del banner
-└── play_circle_outline.png # Ícono del botón de sorteo
+```bash
+CHALLENGE-AMIGO-SECRETO
+├── assets
+│   ├── amigo-secreto.png
+│   └── play_circle_outline.png
+├── app.js
+├── index.html
+├── README.md
+└── style.css
+```
 
 ## 🎯 Objetivos de aprendizaje
 
